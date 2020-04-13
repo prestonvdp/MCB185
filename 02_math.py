@@ -21,7 +21,7 @@ print(add, sub, mul, div)
 # Here are some other useful math operators
 
 exp = a ** b # a raised to the power of b
-mod = a % b  # modulo: remainder after dividing 1 by b
+mod = a % b  # modulo: remainder after dividing a by b
 idf = a // b # integer division, then floor (round down)
 
 print(exp, mod, idf)
