@@ -48,3 +48,4 @@ Course materials for UC Davis MCB185: Computer Programming for Biologists.
 
 + windows_notes.md - extra information for Windows 10 users
 + git_notes.md - extra information about git and github
+
