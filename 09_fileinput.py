@@ -18,7 +18,7 @@ dna = 'CATGGGCACGCATTACAGT'
 # It reads every line of every file on the command line
 
 # Run this:
-# 	python3 08_fileinput.py numbers.txt
+# 	python3 09_fileinput.py numbers.txt
 
 data = []
 for line in fileinput.input():

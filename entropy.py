@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Write a Shannon entropy calculator: H = sum(pi * log(pi))
+# Write a Shannon entropy calculator: H = -sum(pi * log(pi))
 # Use fileinput to get the data from nucleotides.txt
 # Make sure that the values are probabilities
 # Make sure that the distribution sums to 1
