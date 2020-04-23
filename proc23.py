@@ -11,5 +11,5 @@ import fileinput
 
 
 """
-proc23.py ~/Downloads/9572.23andme.7848
+proc23.py whatever.23andme.whatever
 """
