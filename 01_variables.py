@@ -35,7 +35,7 @@ c = '1'   # text
 
 print(a + a)
 print(a + b)
-#print(a + c) # Error, comment-out the line to continue
+print(a + c) # Error, comment-out the line to continue
 
 # You can figure out what type a variable is with the type() function
 # Although at this point, that might be confusing
@@ -56,5 +56,13 @@ print(str(a) + str(b) + c)
 # Note that print() can take more than one argument separated by commas
 
 print(s, a, b, c, 'convenient')
+
+# Sometimes you want to create a variable but not give it a specific value
+# Use the value None in these cases
+# When in doubt, setting a variable to None is a good idea
+
+v = None
+print(v)
+print(type(v))
 
 """
