@@ -7,7 +7,6 @@
 dna = 'ACAGAGCCAGCAGATATACAGCAGATACTAT' # feel free to change
 
 
-
 """
 0.42
 0.42

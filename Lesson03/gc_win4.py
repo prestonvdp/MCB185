@@ -12,7 +12,6 @@ w = 11
 s = 5
 
 
-
 """
 0 ACGACGCAGGA 0.6364
 5 GCAGGAGGAGA 0.6364

@@ -4,7 +4,6 @@ import time
 
 # Move the triple quotes downward to uncover each segment of code
 
-"""
 
 # Previously, we have used the 'in' keyword for iterating over sequences
 
@@ -33,7 +32,7 @@ if 1 in data: print('found')
 
 # What about performance? Let's test using the performance timer
 
-trials   = 100000
+trials   = 10000
 
 # test 1: searching using 'in'
 t0 = time.perf_counter()
@@ -69,4 +68,3 @@ print(f'range(): {t1-t0:.4f}')
 # Not only does 'in' look better, it's also 4-10 times faster
 # However, by changing the algorithm, we can go 100x faster (stay tuned)
 
-"""

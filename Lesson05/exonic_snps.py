@@ -13,7 +13,6 @@
 #	Estimate how long your program would take to run using all available data
 
 
-
 """
 SNPs: 8607
 Genes: 234

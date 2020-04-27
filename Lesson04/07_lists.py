@@ -5,14 +5,15 @@ import random
 
 # Move the triple quotes downward to uncover each segment of code
 
-"""
 
 # Sometimes we want to work with multiple variables at the same time
 # A convenient way to do this is a 'tuple'
-# Any time you have comma separated values in parentheses, you have a 'tuple'
+# Any time you have comma separated values, you have a 'tuple'
+# Tuples are often in parentheses but need not be
 # Tuples can mix data types
 
-tup = (1, 2.0, 'three')
+tup = 1, 2.0, 'three'
+tup = (1, 2.0, 'three') # same thing
 
 # You can access any element with square bracket context
 # Counting starts at zero, not 1
@@ -102,4 +103,3 @@ import sys
 print(sys.argv)
 
 
-"""

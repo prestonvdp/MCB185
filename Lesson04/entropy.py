@@ -7,7 +7,6 @@
 # Report with 3 decimal figures
 
 
-
 """
 python3 entropy.py nucleotides.txt
 1.846

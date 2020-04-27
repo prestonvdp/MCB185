@@ -6,7 +6,6 @@
 # For numbers which are multiples of both 3 and 5 print “FizzBuzz”.
 
 
-
 """
 1
 2

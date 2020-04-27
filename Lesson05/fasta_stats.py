@@ -10,7 +10,6 @@ import sys
 #	See below
 
 
-
 """
 python3 fasta_stats.py transcripts.fasta.gz
 Count: 232

@@ -11,7 +11,6 @@ import random
 # Command line: python3 rand_fasta.py <count> <min> <max> <a> <c> <g> <t>
 
 
-
 """
 
 """

@@ -8,7 +8,6 @@ import fileinput
 # No, you cannot import any other modules!
 
 
-
 """
 python3 stats.py numbers.txt
 Count: 10

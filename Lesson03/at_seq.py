@@ -10,7 +10,6 @@ random.seed(1) # comment-out this line to change sequence each time
 # Report the length, AT fraction, and sequence
 
 
-
 """
 30 0.6666666666666666 ATTACCGTAATCTACTATTAAGTCACAACC
 """

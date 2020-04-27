@@ -8,7 +8,6 @@ import sys
 #	python3 pepsearch.py IAN
 
 
-
 """
 python3 pepsearch.py proteins.fasta.gz IAN | wc -w
 	43

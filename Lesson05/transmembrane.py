@@ -15,7 +15,6 @@ import sys
 #	Hydrophobic region is 11 aa long, KD > 2.0, after 30 aa
 
 
-
 """
 18w
 Dtg

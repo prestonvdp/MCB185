@@ -6,7 +6,6 @@
 dna = 'ACTGAAAAAAAAAAA'
 
 
-
 """
 TTTTTTTTTTTCAGT
 """

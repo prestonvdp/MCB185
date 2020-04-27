@@ -4,7 +4,6 @@ import math
 
 # Move the triple quotes downward to uncover each segment of code
 
-"""
 
 # Floating point math is approximate math
 # Because of this, you never want to use floats in a conditional statment
@@ -22,4 +21,3 @@ p = 0.1 # some probability, try changing this value outside of 0-1
 assert(p >= 0 and p <= 1)
 
 
-"""

@@ -4,7 +4,6 @@ import random
 
 # Move the triple quotes downward to uncover each segment of code
 
-"""
 
 # The standard conditional statement is a single 'if'
 
@@ -69,10 +68,18 @@ for nt in dna:
 		print(nt)
 
 # The 'while' loop mixes a conditional with a loop
+# Note the use of the 'break' statement to prevent this from going forever
 
 i = 0
-while (False):          # change False to True and back
-	print('forever', i) # hit ^C to break the loop
+while (True): # this loop runs forever
+	print('break', i)
 	i += 1
+	if i > 5: break # this breaks the loop
 
-"""
+# The `continue` statement allows you to skip to the next iteration
+
+for i in range(10):
+	if i < 5: continue # this skips ahead to next iteration
+	print('continue', i)
+
+

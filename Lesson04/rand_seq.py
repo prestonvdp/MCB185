@@ -10,7 +10,6 @@
 #	python3 rand_seq.py <# of seqs> <min> <max> <gc>
 
 
-
 """
 python3 rand_seq.py 3 10 20 0.5
 >seq-0

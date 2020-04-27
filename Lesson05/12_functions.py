@@ -4,7 +4,6 @@ import math
 
 # Move the triple quotes downward to uncover each segment of code
 
-"""
 
 # We have been using functions for a while, such as print(list)
 # Sometimes the variable preceeds the function, such as list.append()
@@ -121,4 +120,3 @@ for name, seq in read_fasta('proteins.fasta.gz'):
 # We will soon learn better methods of code re-use
 
 
-"""

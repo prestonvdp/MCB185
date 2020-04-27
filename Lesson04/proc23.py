@@ -9,7 +9,6 @@ import fileinput
 # https://opensnp.org/genotypes (make sure the data is 23andme)
 
 
-
 """
 proc23.py whatever.23andme.whatever
 """

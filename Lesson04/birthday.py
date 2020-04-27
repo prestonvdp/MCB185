@@ -11,7 +11,6 @@
 #	python3 birthday.py <bins> <trials> <people>
 
 
-
 """
 python3 birthday.py 365 1000 23
 0.520

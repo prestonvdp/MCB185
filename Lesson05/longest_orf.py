@@ -10,7 +10,6 @@ import sys
 #	Gene_name seq_length cds_length
 
 
-
 """
 python3 longest_orf.py transcripts.fasta.gz  | head
 CBG00001.1 720 525
