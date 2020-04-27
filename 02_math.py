@@ -45,7 +45,6 @@ print(i)
 
 import math # import statements normally go at the top of a program
 
-
 hyp = math.sqrt(a**2 + b**2) # Pythagoras
 print(hyp)
 

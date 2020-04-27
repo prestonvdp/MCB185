@@ -35,7 +35,7 @@ c = '1'   # text
 
 print(a + a)
 print(a + b)
-print(a + c) # Error, comment-out the line to continue
+#print(a + c) # remove comment to see error
 
 # You can figure out what type a variable is with the type() function
 # Although at this point, that might be confusing

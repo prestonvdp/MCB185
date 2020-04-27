@@ -6,7 +6,7 @@ import math
 
 """
 
-# The 'for' loop is one of the most common loop constructs you will use
+# The 'for' loop the most common loop construct you will use
 # Note the indentation of the print(i) statement
 # Code 'inside' loops must be indented
 # Note that Python starts counting from 0 not 1
