@@ -2,6 +2,7 @@
 
 # Move the triple quotes downward to uncover each segment of code
 
+"""
 
 txt = 'Ian'
 num = 3/11
@@ -46,3 +47,4 @@ print(f'{2+2} {1/7:.5f} {len(txt)}')
 # Each formatting method has many more options
 # Check documentation online for more information
 
+"""

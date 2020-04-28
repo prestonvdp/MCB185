@@ -4,6 +4,7 @@ import sys
 
 # Move the triple quotes downward to uncover each segment of code
 
+"""
 
 # The 'open' function defaults to reading
 
@@ -51,3 +52,4 @@ with open('/tmp/foo', 'a') as fp:
 # Usually you don't need to do that
 # Read the official documentation if that interests you
 
+"""

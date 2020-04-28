@@ -5,6 +5,7 @@ import random
 
 # Move the triple quotes downward to uncover each segment of code
 
+"""
 
 # Sometimes we want to work with multiple variables at the same time
 # A convenient way to do this is a 'tuple'
@@ -103,3 +104,4 @@ import sys
 print(sys.argv)
 
 
+"""

@@ -2,6 +2,7 @@
 
 # Move the triple quotes downward to uncover each segment of code
 
+"""
 
 # -------------------- ZIP FUNCTION --------------------
 
@@ -60,3 +61,4 @@ print(square3)
 square3 = [i ** 2 for i in range(10) if i % 3 == 0]
 print(square3)
 
+"""

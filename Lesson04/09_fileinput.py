@@ -6,6 +6,7 @@ import sys
 
 # Move the triple quotes downward to uncover each segment of code
 
+"""
 
 # We have been using hard-coded data in our programs like this
 
@@ -31,3 +32,4 @@ data.sort()
 print('range = {} to {}'.format(data[0], data[-1]))
 
 
+"""

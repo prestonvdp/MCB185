@@ -4,6 +4,7 @@ import random
 
 # Move the triple quotes downward to uncover each segment of code
 
+"""
 
 # The standard conditional statement is a single 'if'
 
@@ -83,3 +84,4 @@ for i in range(10):
 	print('continue', i)
 
 
+"""

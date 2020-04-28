@@ -4,6 +4,7 @@ import random
 
 # Move the triple quotes downward to uncover each segment of code
 
+"""
 
 # -------------------- FULL FUNCTION SYNTAX --------------------
 
@@ -103,3 +104,4 @@ for r in (random.random() for i in range(10)):
 
 
 
+"""

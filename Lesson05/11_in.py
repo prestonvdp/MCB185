@@ -4,6 +4,7 @@ import time
 
 # Move the triple quotes downward to uncover each segment of code
 
+"""
 
 # Previously, we have used the 'in' keyword for iterating over sequences
 
@@ -68,3 +69,4 @@ print(f'range(): {t1-t0:.4f}')
 # Not only does 'in' look better, it's also 4-10 times faster
 # However, by changing the algorithm, we can go 100x faster (stay tuned)
 
+"""
