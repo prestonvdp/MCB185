@@ -84,6 +84,7 @@ print(min_max(data))
 # Files may be compressed (.gz suffix) or piped in (use - for filename)
 
 import gzip
+import sys
 
 def read_fasta(filename):
 	name = None
