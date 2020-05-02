@@ -1,7 +1,7 @@
 MCB185
 ======
 
-Course materials for UC Davis MCB185: Computer Programming for Biologists.
+This GitHub repository has the Student materials for the UC Davis course MCB185: Computer Programming for Biologists. In each Lesson there is a `00README.md` file with the instructions for the lesson. You will also find some tutorial programs and programming exercises.
 
 Notes on Macs
 =============
