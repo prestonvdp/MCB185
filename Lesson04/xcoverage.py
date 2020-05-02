@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 
 # Write a program that simulates random BAC coverage over a genome
-# Command line arguments include
-# 	Genome size (e.g. 1000)
-# 	X coverage (e.g. 5)
 # Use assert() to check parameter bounds
 # Report min, max, and histogram of coverage
 # Note that your output may vary due to random function
+# Command line:
+#	python3 xcoverage.py <genome size> <x>
 
 
 """
+python3 xcoverage.py 1000 5
 Size: 1000
 X: 5.0
 BACs: 5000

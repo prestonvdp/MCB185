@@ -5,7 +5,7 @@ Lesson 4
 
 * tuples - immutable, comma separated values (in parentheses)
 * lists - mutable, comma separarted values [in brackets]
-* list functions - append(), pop(), insert(), sort()
+* list functions - append(), pop(), insert(), sort(), list()
 
 ## Tutorials ##
 
@@ -46,6 +46,7 @@ instructions are inside each file.
 
 	assert()
 	len(list)
+	list()
 	zip()
 
 ### Methods

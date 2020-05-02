@@ -8,6 +8,7 @@ dna = 'ATGGCCTTT'
 
 
 """
+python3 frame.py
 0 0 A
 1 1 T
 2 2 G

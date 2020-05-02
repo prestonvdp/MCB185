@@ -4,10 +4,7 @@ import gzip
 import sys
 
 # Write a program that computes typical stats for sequence files
-# Command line:
-#	python3 fasta_stats.py transcripts.fasta.gz
-# Output:
-#	See below
+# See below for command line and output
 
 
 """

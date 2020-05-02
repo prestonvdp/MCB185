@@ -29,28 +29,28 @@ print(tup[2])
 # Lists are like tuples, but are mutable
 # Create lists with square brackets instead of parentheses
 
-list = [1, 2.0, 'three']
-print(list)
+lis = [1, 2.0, 'three']
+print(lis)
 
 # You can change the content of each item in a list
 
-list[2] = 3
-print(list)
+lis[2] = 3
+print(lis)
 
 # You can get a slice of a list, which should look familiar
 
-print(list[0:2])
+print(lis[0:2])
 
 # You can change the length of a list with append(), pop(), and insert()
 
-list.append('four') # adds 'four' to the end of a list
-print(list)
+lis.append('four') # adds 'four' to the end of a list
+print(lis)
 
-last = list.pop() # removes the last element of a list and returns it
+last = lis.pop() # removes the last element of a list and returns it
 print(last, list)
 
-list.insert(2, 'ok')  # inserts 'ok' at position 2
-print(list)
+lis.insert(2, 'ok')  # inserts 'ok' at position 2
+print(lis)
 
 # Many lists contain numbers, like the following probability distribution
 
@@ -89,6 +89,11 @@ print(cols)
 line = '1,2,3'
 csv = line.split(',') # comma separated values
 print(csv) # note the quotes, the numeric values are actually strings
+
+# If you want to split every letter of a string, use list()
+
+letters = list('ACGT')
+print(letters)
 
 # To convert from lists to strings, use join()
 

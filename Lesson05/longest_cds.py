@@ -7,13 +7,11 @@ import sys
 # Translate the sequence to amino acids
 # Use a generator function somewhere in your program
 # Check both strands
-# Command line:
-#	python3 longest_orf.py
-# Output:
-#	Gene_name seq_length cds_start cds_length
+# See below for command line and expected output
 
 
 """
+python3 longest_orf.py transcripts.fasta.gz
 >CBG00001.1
 MTFCENKNLPKPPSDRCQVVVISILSMILDFYLKYNPDKHWAHLFYGASPILEILVIFGMLANSVYGNKLAMFACVLDLVSGVFCLLTLPVISVAENATGVRLHLPYISTFHSQFSFQVSTPVDLFYVATFLGFVSTILILLFLILDALKFMKLRKLRNEDLEKEKKMNPIEKV*
 >CBG00006.1

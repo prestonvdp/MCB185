@@ -4,8 +4,7 @@
 # Window size is 11 nt
 # Step size is 5 nt
 # Output with 4 significant figures using whichever method you prefer
-# Use no nested loops
-# Describe the pros/cons of this algorith vs. nested loops
+# Use no nested loops (as in gc_win2.py)
 
 seq = 'ACGACGCAGGAGGAGAGTTTCAGAGATCACGAATACATCCATATTACCCAGAGAGAG'
 w = 11
@@ -13,6 +12,7 @@ s = 5
 
 
 """
+python3 gc_win4.py
 0 ACGACGCAGGA 0.6364
 5 GCAGGAGGAGA 0.6364
 10 AGGAGAGTTTC 0.4545

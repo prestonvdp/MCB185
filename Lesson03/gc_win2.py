@@ -3,7 +3,9 @@
 # Write a program that computes the GC fraction of a DNA sequence in a window
 # Window size is 11 nt
 # Output with 4 significant figures using whichever method you prefer
-# Use no nested loops
+# Use no nested loops. Instead, count only the first window
+# Then 'move' the window by adding 1 letter on one side
+# And subtracting 1 letter from the other side
 # Describe the pros/cons of this algorith vs. nested loops
 
 seq = 'ACGACGCAGGAGGAGAGTTTCAGAGATCACGAATACATCCATATTACCCAGAGAGAG'
@@ -11,6 +13,7 @@ w = 11
 
 
 """
+python3 gc_win2.py
 0 ACGACGCAGGA 0.6364
 1 CGACGCAGGAG 0.7273
 2 GACGCAGGAGG 0.7273

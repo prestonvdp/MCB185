@@ -27,7 +27,7 @@ for i in range(1, 3):
 	print(i)
 print('---')
 
-# And also the steps between iterations
+# You can also set the steps between iterations
 
 for i in range(1, 10, 3):
 	print(i)

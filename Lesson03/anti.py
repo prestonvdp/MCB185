@@ -7,5 +7,6 @@ dna = 'ACTGAAAAAAAAAAA'
 
 
 """
+python3 anti.py
 TTTTTTTTTTTCAGT
 """

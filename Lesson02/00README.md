@@ -29,7 +29,7 @@ Next, follow `02_math.py`. Here, you will learn that the typical
 mathematics operations you are already familar (addition, subtraction,
 multiplication, division, exponentiation) are also in Python. However,
 the symbol for multiplication is `*` and exponentiation is `**`. The
-standard rules for precedence are use: multiplication and division
+standard rules for precedence are: multiplication and division
 before addition and subtraction. But what about exponentiation and other
 operations like `%` (modulo)? Use parentheses when in doubt. Heck, use
 parentheses even when not in doubt.

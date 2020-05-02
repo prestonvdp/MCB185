@@ -9,5 +9,6 @@ n = 5
 
 
 """
+python3 sumfac.py
 5 15 120
 """

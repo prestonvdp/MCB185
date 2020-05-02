@@ -7,6 +7,7 @@ dna = 'ATAGCGAATATCTCTCATGAGAGGGAA'
 
 
 """
+python3 codons.py
 ATA
 GCG
 AAT

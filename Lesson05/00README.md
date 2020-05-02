@@ -17,14 +17,14 @@ using the `gzip` library. If you want to learn how to write or append to
 files, check out `10_files_extra.py`.
 
 The next tutorial is really short, `11_in.py`, but it has two very
-important concepts: the use of `in` for searching, and the the `time`
+important concepts: the use of `in` for searching, and the `time`
 library for benchmarking.
 
 The main part of the lesson is `12_functions.py`. Functions are units of
 code re-use and are one of the most important concepts in programming.
 In addition to the instruction, you will also find a `read_fasta()`
 function inside `12_functions.py`, which we will copy-paste into other
-programs (for now, later we will put it in a proper library).
+programs (for now, later we will put it in a proper module).
 
 Python function syntax is highly customizable, but sort of confusing.
 For that reason, you can find a more complete explanation in

@@ -7,6 +7,7 @@
 
 
 """
+python3 aa_pairs.py
 A C
 A D
 A E

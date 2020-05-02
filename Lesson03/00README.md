@@ -9,7 +9,7 @@ Lesson 3
 ## Tutorials ##
 
 Start by following `05_conditionals.py`. Here, you will learn of the
-*Boolean* type, which is used to repredent `True` and `False`. The
+*Boolean* type, which is used to represent `True` and `False`. The
 Boolean operators include `and`, `or`, and `not`. You are also
 introduced to the `while` loop, which is less common than a `for` loop,
 but is useful because it has its own conditional expression in the loop.

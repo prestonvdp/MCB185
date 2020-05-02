@@ -23,8 +23,9 @@ print('%s %.3f' % (txt, num))                # %s string, %f float
 print('%s %.3f %d %e' % (txt, num, 2.1, .1)) # %d integer, %e scientific
 
 # Method 2: str.format()
-# Strings are objects with built-in methods (i.e. functions)
+# Strings are objects with built-in functions (which are called methods)
 # upper() and lower() are some simple examples of string methods
+# When using object syntax, the function comes after the variable
 
 print(txt.upper(), txt.lower())
 

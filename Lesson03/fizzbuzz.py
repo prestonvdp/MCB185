@@ -7,6 +7,7 @@
 
 
 """
+python3 fizzbuzz.py
 1
 2
 Fizz
