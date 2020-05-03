@@ -36,6 +36,9 @@ which let you turn functions into iterators.
 For programming practice, try writing the following programs. The
 instructions are inside each file.
 
+Copy these to your `learning_python` directory and also the data files.
+Don't program in the `MCB185` directory !
+
 1. `exonic_snps.py`
 2. `pepsearch.py`
 3. `fasta_stats.py`

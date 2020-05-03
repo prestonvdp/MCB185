@@ -29,6 +29,9 @@ your own code, you can use the method that makes the most sense to you.
 For programming practice, try writing the following programs. The
 instructions are inside each file.
 
+Copy these to your `learning_python` directory.
+Don't program in the `MCB185` directory !
+
 1. `at_seq.py`
 2. `anti.py`
 3. `gc.py`

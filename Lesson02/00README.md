@@ -71,6 +71,9 @@ loop construction, because both are used frequently.
 For programming practice, try writing the following programs. The
 instructions are inside each file.
 
+Copy these to your `learning_python` directory.
+Don't program in the `MCB185` directory !
+
 1. `sumfac.py`
 2. `codons.py`
 3. `aa_pairs.py`

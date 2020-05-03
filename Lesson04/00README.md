@@ -27,6 +27,9 @@ whether that data comes from a file or Unix pipe.
 For programming practice, try writing the following programs. The
 instructions are inside each file.
 
+Copy these to your `learning_python` directory and also the data files.
+Don't program in the `MCB185` directory !
+
 1. `rand_seq.py`
 2. `birthday.py`
 3. `xcoverage.py`

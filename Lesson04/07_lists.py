@@ -47,10 +47,10 @@ lis.append('four') # adds 'four' to the end of a list
 print(lis)
 
 last = lis.pop() # removes the last element of a list and returns it
-print(last, list)
+print(last, lis)
 
 lis.insert(2, 'ok')  # inserts 'ok' at position 2
-print(lis)
+print(list)
 
 # Many lists contain numbers, like the following probability distribution
 
@@ -107,6 +107,5 @@ print(s, seq)
 
 import sys
 print(sys.argv)
-
 
 """
