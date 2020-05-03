@@ -5,9 +5,7 @@ import sys
 
 # Write a program that finds all of the open reading frames in a transcript
 # ORFs start with ATG and end with a stop codon (TAA, TAG, TGA)
-# Command line: python3 orfs.py
-# Output:
-#	Gene_name seq_length cds_length
+# See below for command line and expected output
 
 
 """
