@@ -7,7 +7,7 @@ import sys
 # Trans-membrane proteins have the following properties
 #	Signal peptide: https://en.wikipedia.org/wiki/Signal_peptide
 #	Hydrophobic regions(s): https://en.wikipedia.org/wiki/Transmembrane_protein
-#	No prolines in hydrophobic regions (alpha helix)
+#	No prolines (alpha helix)
 # Hydrophobicity is measued via Kyte-Dolittle
 #	https://en.wikipedia.org/wiki/Hydrophilicity_plot
 # For our purposes:
