@@ -36,3 +36,12 @@ def gc(seq):
 		if nt == 'G' or nt == 'C':
 			count += 1
 	return count / len(seq)
+
+def skew(seq):
+	count = 0
+	gs = 0
+	cs = 0
+	for nt in seq:
+		if   nt == 'G': gs += 1
+		elif nt == 'C':cs += 1
+	return (gs-cs) / (gs+cs)
