@@ -6,8 +6,7 @@ import biotools as bt
 import argparse
 
 # Use argparse
-# Write a program that translates an mRNA
-# Assume the protein encoded is the longest ORF
+# Compute gc and gc-skew
 
 
 """
