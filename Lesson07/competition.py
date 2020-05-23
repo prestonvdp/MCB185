@@ -33,7 +33,7 @@ def entropy_slow(seq, w, th):
 	t1 = time.perf_counter()
 	return low_H_count, t1-t0
 
-def entropy_fast(seq, w, t):
+def entropy_fast(seq, w, th):
 	t0 = time.perf_counter()
 	low_H_count = 0
 	
@@ -55,7 +55,7 @@ def entropy_fast(seq, w, t):
 		if g != 0: h -= pg * math.log2(pg)
 		if t != 0: h -= pt * math.log2(pt)
 	
-		if h < t: low_H_count += 1
+		if h < th: low_H_count += 1
 	
 	t1 = time.perf_counter()
 	return low_H_count, t1-t0
