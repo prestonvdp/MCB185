@@ -2,7 +2,7 @@
 
 import fileinput
 
-puncs =  '.,1?!:;-*"_()[]{}<>/1234567890—“”’‘–' # you may need to add more
+puncs =  '.,?!:;-*"_()[]{}<>/1234567890—“”’‘–' # you may need to add more
 spaces = ' ' * len(puncs)
 
 for rawline in fileinput.input():
