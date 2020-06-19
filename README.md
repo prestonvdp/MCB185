@@ -1,5 +1,7 @@
-MCB185
-======
+pybioinformatics
+================
+
+Learning bioinformatics in python.
 
 This GitHub repository has the Student materials for the UC Davis course MCB185: Computer Programming for Biologists. In each `Lesson` directory there is a `00README.md` file with the instructions for the lesson. You will also find some tutorial programs and programming exercises.
 
